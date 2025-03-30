@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.masthead {
+    background-color: #333;
+    color: white;
+    padding-top: 20px;
+    height: 100px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hero {
+    background-image: linear-gradient(to bottom right, #333, #444);
+    color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.mastfoot {
+    background-color: #f9f9f9;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
